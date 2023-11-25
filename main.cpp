@@ -3,5 +3,5 @@
 
 int main()
 {
-    fmt::println("Hello world!");
+    fmt::println("Hello submodules world!");
 }
